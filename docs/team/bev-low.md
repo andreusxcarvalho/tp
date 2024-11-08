@@ -55,7 +55,7 @@ it using a CLI, and it has a GUI created with JavaFX. It is written in Java.
     - [PR #79 - Unit Test for Core Command Classes](https://github.com/AY2425S1-CS2113-W10-3/tp/pull/79)
     - [PR #73 - Fixing the loading and logging of History class PR](https://github.com/AY2425S1-CS2113-W10-3/tp/pull/73)
     - [#52 - Finalize version one](https://github.com/AY2425S1-CS2113-W10-3/tp/pull/52)
-      - [PR #51 - History PR](https://github.com/AY2425S1-CS2113-W10-3/tp/pull/51)
+    - [PR #51 - History PR](https://github.com/AY2425S1-CS2113-W10-3/tp/pull/51)
     - [#49 - Adjust Storage class for better separation of concern PR](https://github.com/AY2425S1-CS2113-W10-3/tp/pull/49)
     - [#48 - Add skeleton code for JUnit Testing PR](https://github.com/AY2425S1-CS2113-W10-3/tp/pull/48)
     - [#46 - Add date parsing support for logging workouts PR](https://github.com/AY2425S1-CS2113-W10-3/tp/pull/46)
